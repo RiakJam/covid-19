@@ -46,5 +46,3 @@ pip install -r requirements.txt
 # Run analysis
 python3 covid_19.py
 
-# View outputs
-ls -lh *.png *.html
